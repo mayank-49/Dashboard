@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import rightArrow from "../assets/rightArrow.svg";
-import { motion } from "framer-motion";
+import  {motion}  from "framer-motion";
 import {
     LayoutDashboard,
     Clock3,
